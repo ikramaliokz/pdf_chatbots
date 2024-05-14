@@ -66,7 +66,7 @@ Once the application is running, access it through your web browser at `http://l
 
 ## Support
 
-For support, contact [your-email@example.com]. Issues and pull requests are welcome on the GitHub repository.
+For support, contact [ikramaliorakzai@gmail.com]. Issues and pull requests are welcome on the GitHub repository.
 
 
 ---
