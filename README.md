@@ -57,7 +57,7 @@ After obtaining the keys, add it in the python file where mentioned with a comme
 
 With the environment set up and API keys in place, you can run each chatbot using Streamlit:
 ```bash
-streamlit run pdf.py
+streamlit run app.py
 ```
 
 ## Usage
