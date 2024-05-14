@@ -17,8 +17,8 @@ Follow these steps to get the chatbots up and running:
 
 Start by cloning this repository to your local machine:
 ```bash
-git clone https://github.com/your-username/chatbot-collection.git
-cd chatbot-collection
+git clone (https://github.com/ikramaliokz/pdf_chatbots.git)
+cd pdf_chatbots
 ```
 
 ### 2. Set Up the Environment
