@@ -68,9 +68,6 @@ Once the application is running, access it through your web browser at `http://l
 
 For support, contact [your-email@example.com]. Issues and pull requests are welcome on the GitHub repository.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ---
 
