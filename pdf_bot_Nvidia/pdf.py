@@ -11,7 +11,7 @@ from streamlit_chat import message
 import io
 
 
-nvapi_key = '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'
+nvapi_key = ''  # use your API key
 os.environ["NVIDIA_API_KEY"] = nvapi_key
 
 st.set_page_config(
